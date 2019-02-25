@@ -1,2 +1,2 @@
 # DL-tutorials
-Deep Learning tutorials for beginner
+Deep Learning tutorials for beginners
